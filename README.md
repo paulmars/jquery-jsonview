@@ -4,8 +4,6 @@ Formats & syntax highlights JSON.
 
 Port of Ben Hollis's JSONView extension for Firefox: http://jsonview.com
 
-[Live demo](http://blog.yesmeck.com/jquery-jsonview/)
-
 ## Usage
 
 ### Example
